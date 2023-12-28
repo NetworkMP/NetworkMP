@@ -1,47 +1,40 @@
 # Network Multiplayer for GTA 5
 
-🎮 Welcome to Network Multiplayer, the ultimate multiplayer gaming experience for GTA 5! With our unique features, you can create and fully edit server resources, all while enjoying seamless synchronization for an immersive gaming adventure.
+![Network Multiplayer Logo](https://cdn.discordapp.com/attachments/1181679134527729798/1189842317763428392/network-logo.png)
+
+Welcome to Network Multiplayer, the ultimate GTA 5 multiplayer experience! Create and edit server resources for a personalized gaming adventure with seamless synchronization.
 
 ## Disclaimer
 
-⚠️ This product, including Network Multiplayer, is an independent creation of our network studio and is not affiliated with or endorsed by Rockstar North, Rockstar Games, or Take Two.
+⚠️ Network Multiplayer is an independent creation and is not affiliated with Rockstar North, Rockstar Games, or Take Two.
 
 ## Features
 
-🌐 **Server Resource Customization:**  
-  <img align="center" alt="Customization Icon" width="30px" src="https://example.com/customization-icon.png" />  
-  Enjoy the freedom to create and edit server resources according to your preferences. Tailor the gaming experience to suit your style.
+- 🌐 **Server Customization:** Tailor the gaming experience to your style.
+- 🔄 **Continuous Synchronization:** Enjoy a smooth and reliable multiplayer experience.
 
-🔄 **Continuous Synchronization:**  
-  <img align="center" alt="Sync Icon" width="30px" src="https://example.com/sync-icon.png" />  
-  We are committed to providing a smooth and reliable multiplayer experience. Our team is dedicated to ongoing improvements in synchronization, ensuring you have the best gaming sessions.
+## Getting Started
 
-## How to Use
+🚀 Follow these steps to start your Network Multiplayer journey:
 
-🚀 Getting started with Network Multiplayer is easy! Follow these simple steps:
-
-1. [Download](#) the latest version of Network Multiplayer.
+1. [Download](#) the latest version.
 2. Install the mod on your GTA 5 game.
 3. Create or join a server.
-4. Customize your server resources for a personalized gaming experience.
-
-## Disclaimer
-
-❗ Please note that Network Multiplayer is a third-party modification and is not associated with Rockstar North, Rockstar Games, or Take Two. Use at your own risk.
+4. Customize your server resources for a personalized experience.
 
 ## In Development 🚧
 
-🔨 Our team is actively working on enhancing the Network Multiplayer experience. Here's what's currently in development:
-
-1. 🌐 **Improved Synchronization:**  
-   Fine-tuning synchronization for even smoother gameplay.
-2. 🚗 **Additional Server Resources:**  
-   Introducing new and exciting resources to enhance your gaming options.
+- 🌐 **Improved Synchronization:** Fine-tuning for smoother gameplay.
+- 🚗 **Additional Server Resources:** Introducing new options for enhanced gaming.
 
 ## Contribute
 
-🤝 We welcome contributions and feedback from the community. Feel free to open issues or pull requests to help us make Network Multiplayer even better!
+🤝 We welcome contributions and feedback! Feel free to open issues or pull requests.
+
+## Disclaimer
+
+❗ Use Network Multiplayer at your own risk.
 
 ## Have Fun! 🎉
 
-😄 Dive into the world of Network Multiplayer, create your own server, and have a blast with friends! Happy gaming!
+Dive into the world of Network Multiplayer, create your server, and enjoy gaming with friends!
