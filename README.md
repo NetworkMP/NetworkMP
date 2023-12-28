@@ -1,7 +1,5 @@
 # Network Multiplayer for GTA 5
 
-![Network Multiplayer Logo](https://cdn.discordapp.com/attachments/1181679134527729798/1189842317763428392/network-logo.png)
-
 Welcome to Network Multiplayer, the ultimate GTA 5 multiplayer experience! Create and edit server resources for a personalized gaming adventure with seamless synchronization.
 
 ## Disclaimer
@@ -29,7 +27,9 @@ Welcome to Network Multiplayer, the ultimate GTA 5 multiplayer experience! Creat
 
 ## Discord Community
 
-[![Join our Discord](https://discord.com/api/guilds/860729761172109312/widget.png)](https://discord.gg/cz44jFh5dE)
+<a href="https://discord.gg/cz44jFh5dE">
+  <img src="https://cdn.discordapp.com/attachments/1167718003345981442/1189972491381248060/2023-12-28_194442_1.png" alt="Join our Discord" width="300px">
+</a>
 
 ## Contribute
 
