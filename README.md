@@ -8,9 +8,13 @@
 
 ## Features
 
-🌐 **Server Resource Customization:** Enjoy the freedom to create and edit server resources according to your preferences. Tailor the gaming experience to suit your style.
+🌐 **Server Resource Customization:**  
+  <img align="center" alt="Customization Icon" width="30px" src="https://example.com/customization-icon.png" />  
+  Enjoy the freedom to create and edit server resources according to your preferences. Tailor the gaming experience to suit your style.
 
-🔄 **Continuous Synchronization:** We are committed to providing a smooth and reliable multiplayer experience. Our team is dedicated to ongoing improvements in synchronization, ensuring you have the best gaming sessions.
+🔄 **Continuous Synchronization:**  
+  <img align="center" alt="Sync Icon" width="30px" src="https://example.com/sync-icon.png" />  
+  We are committed to providing a smooth and reliable multiplayer experience. Our team is dedicated to ongoing improvements in synchronization, ensuring you have the best gaming sessions.
 
 ## How to Use
 
@@ -29,8 +33,10 @@
 
 🔨 Our team is actively working on enhancing the Network Multiplayer experience. Here's what's currently in development:
 
-1. 🌐 Improved Synchronization: Fine-tuning synchronization for even smoother gameplay.
-2. 🚗 Additional Server Resources: Introducing new and exciting resources to enhance your gaming options.
+1. 🌐 **Improved Synchronization:**  
+   Fine-tuning synchronization for even smoother gameplay.
+2. 🚗 **Additional Server Resources:**  
+   Introducing new and exciting resources to enhance your gaming options.
 
 ## Contribute
 
