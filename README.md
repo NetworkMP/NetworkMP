@@ -4,7 +4,7 @@
 
 ## Disclaimer
 
-⚠️ All products developed by our network studio, including Network Multiplayer, are independent creations and are not affiliated with or endorsed by Rockstar North, Rockstar Games, or Take Two.
+⚠️ This product, including Network Multiplayer, is an independent creation of our network studio and is not affiliated with or endorsed by Rockstar North, Rockstar Games, or Take Two.
 
 ## Features
 
@@ -39,6 +39,3 @@
 ## Have Fun! 🎉
 
 😄 Dive into the world of Network Multiplayer, create your own server, and have a blast with friends! Happy gaming!
-
-```css
-All products of the network studio, including network multiplayer, do not belong to Rockstar North, Rockstar Games and Take Two!
