@@ -27,6 +27,10 @@ Welcome to Network Multiplayer, the ultimate GTA 5 multiplayer experience! Creat
 - 🌐 **Improved Synchronization:** Fine-tuning for smoother gameplay.
 - 🚗 **Additional Server Resources:** Introducing new options for enhanced gaming.
 
+## Discord Community
+
+[![Join our Discord](https://discord.com/api/guilds/860729761172109312/widget.png)](https://discord.gg/cz44jFh5dE)
+
 ## Contribute
 
 🤝 We welcome contributions and feedback! Feel free to open issues or pull requests.
